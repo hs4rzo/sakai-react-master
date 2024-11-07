@@ -1,0 +1,54 @@
+[
+  {
+    "flow_meter_id": "FM001",
+    "meter_type": "Electromagnetic",
+    "manufacturer": "FlowTech",
+    "model": "FT-500",
+    "measurement_range": "0-500 L/min",
+    "accuracy": "±0.5%",
+    "installation_date": "2023-01-15",
+    "last_calibration_date": "2023-07-20",
+    "next_calibration_due": "2024-07-20",
+    "status": "Active",
+    "description": "มาตรวัดอัตราการไหลชนิดอิเล็กทรอมักเนติก ใช้สำหรับการวัดการไหลของเอทานอล"
+  },
+  {
+    "flow_meter_id": "FM002",
+    "meter_type": "Turbine",
+    "manufacturer": "MeterCorp",
+    "model": "TC-1000",
+    "measurement_range": "10-1000 L/min",
+    "accuracy": "±1.0%",
+    "installation_date": "2023-03-10",
+    "last_calibration_date": "2023-08-15",
+    "next_calibration_due": "2024-08-15",
+    "status": "Active",
+    "description": "มาตรวัดอัตราการไหลชนิดทอร์บิน ใช้สำหรับการวัดการไหลของเอทานอล"
+  },
+  {
+    "flow_meter_id": "FM003",
+    "meter_type": "Ultrasonic",
+    "manufacturer": "UltraFlow",
+    "model": "UF-200",
+    "measurement_range": "5-500 L/min",
+    "accuracy": "±0.3%",
+    "installation_date": "2023-04-25",
+    "last_calibration_date": "2023-09-10",
+    "next_calibration_due": "2024-09-10",
+    "status": "Active",
+    "description": "มาตรวัดอัตราการไหลชนิดอัลตราโซนิก ใช้สำหรับการวัดการไหลของเอทานอล"
+  },
+  {
+    "flow_meter_id": "FM004",
+    "meter_type": "Positive Displacement",
+    "manufacturer": "FlowMasters",
+    "model": "PD-150",
+    "measurement_range": "1-150 L/min",
+    "accuracy": "±0.2%",
+    "installation_date": "2023-05-15",
+    "last_calibration_date": "2023-10-05",
+    "next_calibration_due": "2024-10-05",
+    "status": "Active",
+    "description": "มาตรวัดอัตราการไหลชนิดการเคลื่อนที่เชิงบวก ใช้สำหรับการวัดการไหลของเอทานอล"
+  }
+]

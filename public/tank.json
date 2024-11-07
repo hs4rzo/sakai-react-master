@@ -1,0 +1,50 @@
+[
+  {
+    "package_id": "PKG001",
+    "package_type": "ถังเหล็ก",
+    "capacity_liters": 200,
+    "material": "เหล็กกล้า",
+    "weight_kg": 25,
+    "label": "บรรจุภัณฑ์สำหรับเอทานอล",
+    "date_manufactured": "2023-01-15",
+    "expiration_date": "2025-01-15",
+    "safety_standard": "ISO 9001",
+    "description": "ถังเหล็กขนาด 200 ลิตร ใช้เก็บเอทานอล"
+  },
+  {
+    "package_id": "PKG002",
+    "package_type": "ถุงพลาสติก",
+    "capacity_liters": 10,
+    "material": "พลาสติก HDPE",
+    "weight_kg": 0.5,
+    "label": "บรรจุภัณฑ์สำหรับเอทานอล",
+    "date_manufactured": "2023-03-10",
+    "expiration_date": "2024-03-10",
+    "safety_standard": "FDA Approved",
+    "description": "ถุงพลาสติกขนาด 10 ลิตร ใช้เก็บเอทานอล"
+  },
+  {
+    "package_id": "PKG003",
+    "package_type": "ขวดแก้ว",
+    "capacity_liters": 1,
+    "material": "แก้ว",
+    "weight_kg": 0.3,
+    "label": "บรรจุภัณฑ์สำหรับเอทานอล",
+    "date_manufactured": "2023-05-20",
+    "expiration_date": "2025-05-20",
+    "safety_standard": "ISO 7000",
+    "description": "ขวดแก้วขนาด 1 ลิตร ใช้เก็บเอทานอล"
+  },
+  {
+    "package_id": "PKG004",
+    "package_type": "ถังพลาสติก",
+    "capacity_liters": 50,
+    "material": "พลาสติก HDPE",
+    "weight_kg": 5,
+    "label": "บรรจุภัณฑ์สำหรับเอทานอล",
+    "date_manufactured": "2023-04-25",
+    "expiration_date": "2025-04-25",
+    "safety_standard": "ISO 9001",
+    "description": "ถังพลาสติกขนาด 50 ลิตร ใช้เก็บเอทานอล"
+  }
+]

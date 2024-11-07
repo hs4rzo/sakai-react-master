@@ -1,0 +1,41 @@
+[
+  {
+    "product_id": "E001",
+    "product_name": "เอทานอล 99.5%",
+    "unit": "ลิตร",
+    "retail_price": 25.50,
+    "supplier": {
+      "supplier_id": "S001",
+      "supplier_name": "บริษัท เอทานอลไทย จำกัด",
+      "contact_phone": "012-3456789"
+    },
+    "availability": "In Stock",
+    "last_updated": "2024-10-01"
+  },
+  {
+    "product_id": "E002",
+    "product_name": "เอทานอล 95%",
+    "unit": "ลิตร",
+    "retail_price": 22.00,
+    "supplier": {
+      "supplier_id": "S002",
+      "supplier_name": "บริษัท เอทานอลสยาม จำกัด",
+      "contact_phone": "098-7654321"
+    },
+    "availability": "In Stock",
+    "last_updated": "2024-10-10"
+  },
+  {
+    "product_id": "E003",
+    "product_name": "เอทานอล 90%",
+    "unit": "ลิตร",
+    "retail_price": 20.00,
+    "supplier": {
+      "supplier_id": "S003",
+      "supplier_name": "บริษัท เอทานอลนานาชาติ จำกัด",
+      "contact_phone": "045-6789123"
+    },
+    "availability": "Out of Stock",
+    "last_updated": "2024-09-25"
+  }
+]

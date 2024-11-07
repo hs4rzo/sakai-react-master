@@ -1,0 +1,50 @@
+[
+  {
+    "atg_id": "ATG001",
+    "model": "ATG-Pro 3000",
+    "manufacturer": "LevelTech",
+    "installation_date": "2023-01-20",
+    "last_calibration_date": "2023-08-01",
+    "next_calibration_due": "2024-08-01",
+    "tank_capacity": "5000 L",
+    "current_level": "2500 L",
+    "status": "Active",
+    "description": "เครื่องมือวัดระดับการจัดเก็บเอทานอล ใช้เทคโนโลยีเซนเซอร์อัลตราโซนิก"
+  },
+  {
+    "atg_id": "ATG002",
+    "model": "LevelMaster 200",
+    "manufacturer": "TankGauge Inc.",
+    "installation_date": "2023-02-15",
+    "last_calibration_date": "2023-09-15",
+    "next_calibration_due": "2024-09-15",
+    "tank_capacity": "10000 L",
+    "current_level": "5000 L",
+    "status": "Active",
+    "description": "เครื่องมือวัดระดับการจัดเก็บเอทานอล ชนิดเซนเซอร์แบบจม"
+  },
+  {
+    "atg_id": "ATG003",
+    "model": "UltraLevel 500",
+    "manufacturer": "UltraGauge",
+    "installation_date": "2023-03-10",
+    "last_calibration_date": "2023-10-10",
+    "next_calibration_due": "2024-10-10",
+    "tank_capacity": "3000 L",
+    "current_level": "1500 L",
+    "status": "Inactive",
+    "description": "เครื่องมือวัดระดับการจัดเก็บเอทานอล ชนิดอิเล็กทรอนิกส์"
+  },
+  {
+    "atg_id": "ATG004",
+    "model": "GaugeMaster 1000",
+    "manufacturer": "GaugeTech",
+    "installation_date": "2023-04-05",
+    "last_calibration_date": "2023-11-01",
+    "next_calibration_due": "2024-11-01",
+    "tank_capacity": "8000 L",
+    "current_level": "4000 L",
+    "status": "Active",
+    "description": "เครื่องมือวัดระดับการจัดเก็บเอทานอล ชนิดเซนเซอร์แบบแม่เหล็ก"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "cust_id": "1",
+    "cust_name": "บริษัท ทรัพย์ทิพย์ จำกัด",
+    "cust_address": "เลขที่ 49 หมู่ 6 ถนน สุระนารายณ์ ตำบล นิคมลำนารายณ์ อำเภอ ชัยบาดาล จังหวัด ลพบุรี รหัสไปรษณีย์ 15130",
+    "contact_phone": "036-462438-40, 036-462474",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/14.334099,100.587171\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "2",
+    "cust_name": "บริษัท น้ำตาลไทยเอทานอล จำกัด",
+    "cust_address": "เลขที่ 1/104 หมู่ 8 ตำบล ท่าไม้ อำเภอ ท่ามะกา จังหวัด กาญจนบุรี รหัสไปรษณีย์ 71120",
+    "contact_phone": "034-649501, 034 566514, 034 566516-7",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/14.041142,99.428978\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "3",
+    "cust_name": "บริษัท บางจากไบโอเอทานอล (ฉะเชิงเทรา) จำกัด",
+    "cust_address": "หมู่ที่ 7 ตำบล เกาะขนุน อำเภอ พนมสารคาม จังหวัด ฉะเชิงเทรา รหัสไปรษณีย์ 24120",
+    "contact_phone": "021408999",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/13.634537,101.284817\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "4",
+    "cust_name": "บริษัท พรวิไล อินเตอร์ เนชั่นแนล กรุพ เทรดดิ้ง จำกัด",
+    "cust_address": "เลขที่ 55/5 หมู่ 1 ถนน ท่าเรือ-วังแดง ตำบล ศาลาลอย อำเภอ ท่าเรือ จังหวัด พระนครศรีอยุธยา รหัสไปรษณีย์ 13130",
+    "contact_phone": "035341975",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/14.354159,100.603216\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "5",
+    "cust_name": "บริษัท พี.เอส.ซี.สตาร์ช โปรดักส์ จำกัด (มหาชน)",
+    "cust_address": "เลขที่ 999 หมู่ 5 แยกบ่อทอง กม.49 ถนน สาย 344 ตำบล หนองใหญ่ อำเภอ หนองใหญ่ จังหวัด ชลบุรี รหัสไปรษณีย์ 20190",
+    "contact_phone": "081-408-6444",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/13.299249,101.025220\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "6",
+    "cust_name": "บริษัท ฟ้าขวัญทิพย์ จำกัด",
+    "cust_address": "หมู่ที่ 4 ถนน สันตัน-วังดินสอ ตำบล เขาไม้แก้ว อำเภอ กบินทร์บุรี จังหวัด ปราจีนบุรี รหัสไปรษณีย์ 25110",
+    "contact_phone": "089-121-8241, 0958801555",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/14.078434,101.674913\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "7",
+    "cust_name": "บริษัท มิตรผล ไบโอฟูเอล จำกัด",
+    "cust_address": "หมู่ที่ 1 ถนน บัวขาว-โพนทอง ตำบล สมสะอาด อำเภอ กุฉินารายณ์ จังหวัด กาฬสินธุ์ รหัสไปรษณีย์ 46110",
+    "contact_phone": "043 134051-3",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/15.334181,103.338083\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "8",
+    "cust_name": "บริษัท มิตรผล ไบโอฟูเอล จำกัด",
+    "cust_address": "เลขที่ 99 หมู่ 10 ตำบล โคกสะอาด อำเภอ ภูเขียว จังหวัด ชัยภูมิ รหัสไปรษณีย์ 36110",
+    "contact_phone": "064 4159639",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/15.690872,101.692633\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "9",
+    "cust_name": "บริษัท มิตรผล ไบโอฟูเอล จำกัด",
+    "cust_address": "เลขที่ 109 หมู่ 10 ตำบล หนองมะค่าโมง อำเภอ ด่านช้าง จังหวัด สุพรรณบุรี รหัสไปรษณีย์ 72180",
+    "contact_phone": "035-466651",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/14.439653,99.060028\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  },
+  {
+    "cust_id": "10",
+    "cust_name": "บริษัท มิตรผลไปโอฟูเอล (กุฉินารายณ์) จำกัด",
+    "cust_address": "หมู่ที่ 1 ถนน บัวขาว-โพนทอง ตำบล สมสะอาด อำเภอ กุฉินารายณ์ จังหวัด กาฬสินธุ์ รหัสไปรษณีย์ 46110",
+    "contact_phone": "043 134051-3",
+    "contact_gps": "<a href=\"https://www.google.com/maps/place/15.334181,103.338083\" target=\"_blank\"><img src=\"https://webdev.excise.go.th/alc/gps.png\"></a>"
+  }
+]

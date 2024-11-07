@@ -1,0 +1,59 @@
+[
+  {
+    "vehicle_id": "V001",
+    "vehicle_type": "Truck",
+    "license_plate": "12-3456",
+    "capacity_liters": 10000,
+    "current_location": {
+      "latitude": 13.7563,
+      "longitude": 100.5018
+    },
+    "status": "Available",
+    "last_service_date": "2024-01-10",
+    "fuel_type": "Diesel",
+    "driver": {
+      "driver_id": "D001",
+      "name": "John Doe",
+      "contact_phone": "012-3456789",
+      "license_number": "D123456789"
+    },
+    "ethanol_transport_history": [
+      {
+        "load_date": "2024-10-01",
+        "delivery_location": "Location A",
+        "amount_delivered": 5000
+      },
+      {
+        "load_date": "2024-10-10",
+        "delivery_location": "Location B",
+        "amount_delivered": 3000
+      }
+    ]
+  },
+  {
+    "vehicle_id": "V002",
+    "vehicle_type": "Truck",
+    "license_plate": "98-7654",
+    "capacity_liters": 12000,
+    "current_location": {
+      "latitude": 14.0583,
+      "longitude": 100.5450
+    },
+    "status": "In Transit",
+    "last_service_date": "2024-02-15",
+    "fuel_type": "Diesel",
+    "driver": {
+      "driver_id": "D002",
+      "name": "Jane Smith",
+      "contact_phone": "098-7654321",
+      "license_number": "D987654321"
+    },
+    "ethanol_transport_history": [
+      {
+        "load_date": "2024-10-02",
+        "delivery_location": "Location C",
+        "amount_delivered": 7000
+      }
+    ]
+  }
+]

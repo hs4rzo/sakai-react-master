@@ -1,0 +1,34 @@
+[
+  {
+    "tax_id": "T001",
+    "tax_name": "ภาษีมูลค่าเพิ่ม (VAT)",
+    "tax_rate": 7.0,
+    "description": "ภาษีที่เรียกเก็บจากการขายสินค้าและบริการ",
+    "effective_date": "2020-01-01",
+    "expiration_date": null
+  },
+  {
+    "tax_id": "T002",
+    "tax_name": "ภาษีสรรพสามิต",
+    "tax_rate": 5.0,
+    "description": "ภาษีที่เรียกเก็บจากสินค้าบางประเภท เช่น บุหรี่, แอลกอฮอล์",
+    "effective_date": "2021-07-01",
+    "expiration_date": null
+  },
+  {
+    "tax_id": "T003",
+    "tax_name": "ภาษีเงินได้บุคคลธรรมดา",
+    "tax_rate": 15.0,
+    "description": "ภาษีที่เก็บจากรายได้ของบุคคลธรรมดา",
+    "effective_date": "2019-01-01",
+    "expiration_date": null
+  },
+  {
+    "tax_id": "T004",
+    "tax_name": "ภาษีเงินได้นิติบุคคล",
+    "tax_rate": 20.0,
+    "description": "ภาษีที่เก็บจากรายได้ของนิติบุคคล",
+    "effective_date": "2018-01-01",
+    "expiration_date": null
+  }
+]
