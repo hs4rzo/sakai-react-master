@@ -1,0 +1,38 @@
+การดำเนินการต่อ:
+เพิ่มไฟล์ที่ถูกแก้ไข (modified files): หากคุณต้องการเพิ่มไฟล์ที่มีการแก้ไขไปที่ staging area (เพื่อให้มันพร้อมสำหรับการ commit) ให้ใช้คำสั่งนี้:
+
+bash
+คัดลอกโค้ด
+git add .editorconfig .eslintrc.json .gitignore .prettierignore
+หรือถ้าคุณต้องการเพิ่มไฟล์ทั้งหมดที่ถูกแก้ไข ให้ใช้คำสั่งนี้:
+
+bash
+คัดลอกโค้ด
+git add .
+คำสั่ง git add . จะเพิ่มไฟล์ทั้งหมดที่มีการเปลี่ยนแปลง (ทั้งไฟล์ที่ถูกแก้ไขและไฟล์ใหม่ที่ไม่ได้ติดตาม) ไปยัง staging area
+
+เพิ่มไฟล์ที่ไม่ได้ถูกติดตาม (untracked files): ไฟล์ที่อยู่ในหมวด Untracked files เช่น package-lock.json, package.json, หรือโฟลเดอร์ public/ ยังไม่ได้ถูกเพิ่มเข้าไปใน staging area คุณสามารถเพิ่มไฟล์เหล่านี้โดยใช้คำสั่งเดียวกัน:
+
+bash
+คัดลอกโค้ด
+git add package-lock.json package.json public/
+หรือถ้าคุณต้องการเพิ่มทุกไฟล์ที่ไม่ได้ถูกติดตามทั้งหมด ก็ใช้:
+
+bash
+คัดลอกโค้ด
+git add .
+ทำการ commit: เมื่อคุณเพิ่มไฟล์ทั้งหมดที่ต้องการแล้ว ให้ทำการ commit เพื่อบันทึกการเปลี่ยนแปลง:
+
+bash
+คัดลอกโค้ด
+git commit -m "Update config files and add new package files"
+Push การเปลี่ยนแปลงไปที่ remote repository: หลังจาก commit เสร็จแล้ว ส่งการเปลี่ยนแปลงไปยัง GitHub หรือ remote repository ของคุณ:
+
+bash
+คัดลอกโค้ด
+git push origin master
+หรือถ้าคุณใช้ branch อื่น เช่น main:
+
+bash
+คัดลอกโค้ด
+git push origin main
